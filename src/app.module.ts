@@ -39,4 +39,3 @@ import { TournamModule } from './tournaments/tournam.module';
   providers: [],
 })
 export class AppModule { }
- 
