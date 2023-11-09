@@ -1,6 +1,6 @@
 {
   "name": "nest-backend",
-  "version": "0.0.1",
+  "version": "0.1.1",
   "description": "Aplicacion para gestionar torneos de microfutbol en soacha bogota",
   "author": "Remberto Priolo y Jorge Romero",
   "private": true,
